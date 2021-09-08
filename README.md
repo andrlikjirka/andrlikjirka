@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrlikjirka
-- 🎓 I’m currently studying Information Management at University of West Bohema, Pilsen.
+- 🎓 I’m studying Information Management at University of West Bohemia, Pilsen.
 - 👀 I’m interested in Informatics and programming, Data analysis, Statistics and Economics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jiriandrlik/)
 

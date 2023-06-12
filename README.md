@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrlikjirka
-- 🎓 I’m studying Information Management at University of West Bohemia, Pilsen.
-- 👀 I’m interested in Informatics and programming, Data analysis, Statistics and Economics.
+- 🎓 I earned a bachelor´s degree in Systems engineering and informatics - Information Management at the University of West Bohemia in Pilsen. Currently I am a postgraduate student at Prague University of Economics and Business, Faculty of Informatics and Statistics.
+- 👀 I’m interested in Information Systems, Software development and Statistics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jiriandrlik/)
 
 <!---
